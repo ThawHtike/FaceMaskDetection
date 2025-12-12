@@ -76,6 +76,8 @@ tzlocal==5.3.1
 urllib3==2.6.0
 validators==0.35.0
 watchdog==6.0.0
+
 Werkzeug==3.1.4
 wrapt==2.0.1
 zipp==3.23.0
+pip install scikit-learn matplotlib
